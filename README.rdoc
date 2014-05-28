@@ -1,0 +1,6 @@
+== Cucumber-Capybara-Selenium_WebDriver For Integration testing
+
+
+To Run tests in Terminal
+
+$ bundle exec cucumber features/googlesearch.feature
