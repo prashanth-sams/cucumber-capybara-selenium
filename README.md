@@ -1,7 +1,7 @@
 Cucumber-Capybara-Selenium_WebDriver Integration
 =========
 
-Selenium WebDriver is the most popular web auotmation tool
+Selenium WebDriver is the most popular web automation tool
 
 
 To Run tests in Terminal
